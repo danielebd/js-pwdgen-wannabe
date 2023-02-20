@@ -14,4 +14,7 @@ const color = prompt('inserisci il tuo colore preferito');
 //Concatenamento informazioni inseriti
 const info = `${firstName}${secondName}${color}`;
 
+//Stampa su console info
+console.log(info);
+
 
