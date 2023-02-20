@@ -17,4 +17,5 @@ const info = `${firstName}${secondName}${color}`;
 //Stampa su console info
 console.log(info);
 
-
+//Stampa info nel file di testo html all'interno di div
+document.querySelector('div').innerHTML = info
