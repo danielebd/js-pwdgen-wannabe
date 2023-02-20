@@ -1,2 +1,8 @@
+//restrizioni per l'apprensimento
 'use strict';
-document.writeln('Hello world')
+
+//promp per Nome
+const firstName = prompt('inserisci il tuo nome');
+
+
+
