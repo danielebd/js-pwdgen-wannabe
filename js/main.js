@@ -12,7 +12,7 @@ const secondName = prompt('inserisci il tuo cognome');
 const color = prompt('inserisci il tuo colore preferito');
 
 //Concatenamento informazioni inseriti
-const info = `${firstName}${secondName}${color}`;
+const info = `${firstName}${secondName}${color}89`;
 
 //Stampa su console info
 console.log(info);
