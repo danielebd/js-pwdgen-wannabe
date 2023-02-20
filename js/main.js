@@ -1,2 +1,2 @@
 'use strict';
-document.writeln('hello world')
+document.writeln('Hello world')
